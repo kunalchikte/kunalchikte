@@ -1,16 +1,79 @@
-### Hi there 👋
+<p align="center">
+<h2 align="center"> Hi there 👋 </h2>
+<h3 align="center"> ...Although my projects are private, I'm always open to discussions and collaboration. <br/>
+ Let's connect and explore opportunities together.</h3>
+</p>
 
-<!--
-**kunalchikte/kunalchikte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<hr/>
+
+
+  ### :woman_technologist: About Me :
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  - 💻 I have experience working with the following technologies:
+      - Node
+      - Vue.js
+      - Anguler
+      - Postgresql / MySQL
+      - Used AWS Services - Ec2, Lambda, SQS, EBS, S3
+  - 🌱 I’m currently learning System Design concepts.
+  - ⛳ I'm practicing Data Structures and Algorithm problem-solving to achieve my goals.
+  - 👯 I’m looking to collaborate with backend development.
+  - 📫 How to reach me: kunalchikte.17@gmail.com
+
+<br />
+<hr/>
+<br />
+
+<div>
+  <p align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJ3NW12MzBudDAyc2d4ZG4yNzFta2V5N2RzdTZjMHNveW1pdGluaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"
+          width="15" style="vertical-align: middle;" />
+       GitHub Streak :
+  </p>
+
+  <p align="center">
+      <a href="https://github.com/kunalchikte/github-readme-streak-stats">
+          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=""
+              src="https://github-readme-streak-stats.herokuapp.com/?user=kunalchikte&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+      </a>
+
+  </p>
+  
+  <br/>
+
+   <p align="center">LeetCode Progress : </p>
+  
+  <p align="center">
+    <a href = "https://leetcode.com/kunalPC17/">
+     <img src="https://leetcard.jacoblin.cool/kunalPC17?ext=heatmap" width="600" height="300" />
+    </a>
+  </p>
+</div>
+
+<hr/>
+
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
+    <div id="badges">
+        <a href="your-linkedin-URL">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+                alt="LinkedIn Badge" />
+        </a>
+        <a href="your-youtube-URL">
+            <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+                alt="Youtube Badge" />
+        </a>
+        <a href="your-twitter-URL">
+            <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+                alt="Twitter Badge" />
+        </a>
+    </div>
+    <img src="https://komarev.com/ghpvc/?username=kunalchikte&style=flat-square&color=blue" alt="" />
+</div>
