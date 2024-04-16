@@ -16,15 +16,15 @@
 
   ### :woman_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  - 💻 I have experience working with the following technologies:
+  - 💻 Experienced working with the following technologies:
       - Node
       - Vue.js
       - Anguler
       - Postgresql / MySQL
       - Used AWS Services - Ec2, Lambda, SQS, EBS, S3
-  - 🌱 I’m currently learning System Design concepts.
-  - ⛳ I'm practicing Data Structures and Algorithm problem-solving to achieve my goals.
-  - 👯 I’m looking to collaborate with backend development.
+  - 🌱 Currently learning System Design concepts.
+  - ⛳ Practicing Data Structures and Algorithm problem-solving to achieve my goals.
+  - 👯 Looking to collaborate with backend development.
   - 📫 How to reach me: kunalchikte.17@gmail.com
 
 <br />
