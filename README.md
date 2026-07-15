@@ -88,15 +88,27 @@ Building an AI-powered platform focused on automating infrastructure management,
 
 # 📚 Publication
 
-> *(Replace this section with your actual paper details.)*
+## KAIRO: A Self-Healing Deployment Framework Using Confidence-Based Decision Models and Retrieval-Augmented Knowledge Memory
 
-**Title:** *Your Research Paper Title*
+**Published in:** Journal of Emerging Technologies and Innovative Research (JETIR)
 
-**Published In:** Conference / Journal Name
+**Publication Date:** June 25, 2026
 
-**Year:** 2026
+This research proposes an AI-driven self-healing deployment framework that combines confidence-based decision making, Retrieval-Augmented Generation (RAG), vector memory, and autonomous remediation to reduce deployment failures and continuously improve operational reliability.
 
-This publication reflects my interest in solving real-world engineering problems through practical research and applied software engineering.
+### Key Topics
+
+- AI Infrastructure
+- Retrieval-Augmented Generation (RAG)
+- Autonomous Remediation
+- Deployment Automation
+- Vector Databases (pgVector)
+- Confidence-Based Decision Models
+- Self-Healing Systems
+- DevOps Automation
+
+📄 Research Paper:
+http://www.jetir.org/view?paper=JETIR2606458
 
 ---
 
