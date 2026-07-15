@@ -114,21 +114,6 @@ Although Kairo's source code is private, I'm always happy to discuss its archite
 
 </p>
 
----
-
-## 🧩 LeetCode
-
-<p align="center">
-
-<a href="https://leetcode.com/kunalPC17/">
-
-<img src="https://leetcard.jacoblin.cool/kunalPC17?ext=heatmap"/>
-
-</a>
-
-</p>
-
----
 
 ## 🤝 Connect
 
