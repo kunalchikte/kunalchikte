@@ -108,6 +108,8 @@ This publication reflects my interest in solving real-world engineering problems
 
 </p>
 
+---
+
 
 # 🤝 Connect
 
